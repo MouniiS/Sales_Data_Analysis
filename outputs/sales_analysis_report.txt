@@ -1,0 +1,21 @@
+SALES DATA ANALYSIS REPORT
+========================
+
+Dataset records after cleaning: 500
+Total revenue: 60,621.98
+Unique orders: 500
+Units sold: 1,536
+Average order value: 121.24
+
+Highest sales category: Electronics (17,711.56)
+Highest sales region: East (17,843.06)
+Top product by sales: Monitor (10,613.11)
+Most sales by payment method: Credit Card (17,081.29)
+
+Business suggestions:
+- Review inventory and promotion strategy for high-revenue categories and products.
+- Investigate regional differences and consider targeted campaigns in weaker regions.
+- Use monthly sales patterns to plan stock and staffing; this dataset is descriptive, not a forecast.
+- Compare payment-method usage when planning checkout options.
+
+Note: Dataset is synthetic and generated for practice. These findings describe this sample only.

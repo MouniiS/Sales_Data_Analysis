@@ -1,0 +1,501 @@
+Order_ID,Date,Region,Category,Product,Quantity,Unit_Price,Discount,Sales,Payment_Method,Month
+S0001,2025-11-24,North,Electronics,Headphones,3,43.01,0.0,129.03,Credit Card,2025-11
+S0002,2025-10-30,North,Books,Novel,1,13.37,0.0,13.37,Debit Card,2025-10
+S0003,2025-11-29,North,Sports,Football,2,25.36,0.1,45.65,Debit Card,2025-11
+S0004,2025-12-24,East,Books,Cookbook,3,21.0,0.0,63.0,Credit Card,2025-12
+S0005,2025-02-17,North,Books,Novel,3,14.23,0.05,40.56,Cash,2025-02
+S0006,2025-10-02,East,Electronics,Monitor,1,174.04,0.15,147.93,Debit Card,2025-10
+S0007,2025-12-27,South,Electronics,Headphones,2,48.49,0.05,92.13,Credit Card,2025-12
+S0008,2025-07-14,South,Home & Kitchen,Lamp,3,34.27,0.0,102.81,UPI,2025-07
+S0009,2025-12-26,South,Electronics,USB Cable,2,12.44,0.15,21.15,Cash,2025-12
+S0010,2025-07-14,North,Home & Kitchen,Storage Box,2,26.37,0.05,50.1,Debit Card,2025-07
+S0011,2025-01-17,East,Home & Kitchen,Lamp,3,33.38,0.0,100.14,Debit Card,2025-01
+S0012,2025-12-02,South,Books,Biography,4,17.32,0.0,69.28,UPI,2025-12
+S0013,2025-10-27,South,Books,Planner,4,15.28,0.05,58.06,Cash,2025-10
+S0014,2025-02-16,West,Electronics,Headphones,2,47.1,0.0,94.2,Credit Card,2025-02
+S0015,2025-07-17,North,Books,Planner,4,15.36,0.15,52.22,Credit Card,2025-07
+S0016,2025-12-16,South,Sports,Water Bottle,3,14.5,0.0,43.5,Cash,2025-12
+S0017,2025-01-02,East,Home & Kitchen,Storage Box,2,26.65,0.15,45.3,Debit Card,2025-01
+S0018,2025-03-20,East,Home & Kitchen,Blender,5,64.02,0.15,272.08,Cash,2025-03
+S0019,2025-01-10,North,Electronics,Mouse,3,18.59,0.0,55.77,Credit Card,2025-01
+S0020,2025-09-06,South,Electronics,USB Cable,2,12.31,0.0,24.62,UPI,2025-09
+S0021,2025-09-28,South,Sports,Football,2,26.02,0.15,44.23,UPI,2025-09
+S0022,2025-07-24,South,Home & Kitchen,Lamp,5,32.88,0.1,147.96,Credit Card,2025-07
+S0023,2025-06-23,North,Electronics,USB Cable,5,12.17,0.0,60.85,Credit Card,2025-06
+S0024,2025-12-29,North,Electronics,Keyboard,1,37.01,0.0,37.01,Debit Card,2025-12
+S0025,2025-05-23,West,Books,Notebook,5,8.29,0.0,41.45,Debit Card,2025-05
+S0026,2025-08-31,East,Books,Notebook,1,8.2,0.0,8.2,Cash,2025-08
+S0027,2025-07-30,East,Books,Novel,1,13.78,0.0,13.78,Credit Card,2025-07
+S0028,2025-05-08,South,Clothing,Jeans,5,51.83,0.1,233.23,UPI,2025-05
+S0029,2025-08-25,North,Clothing,T-Shirt,4,16.84,0.15,57.26,Credit Card,2025-08
+S0030,2025-05-02,West,Clothing,Sneakers,4,71.56,0.1,257.62,Credit Card,2025-05
+S0031,2025-03-26,West,Books,Novel,4,14.96,0.05,56.85,UPI,2025-03
+S0032,2025-08-05,North,Sports,Football,2,24.19,0.0,48.38,Credit Card,2025-08
+S0033,2025-06-10,South,Electronics,Headphones,5,45.02,0.1,202.59,Credit Card,2025-06
+S0034,2025-09-18,South,Electronics,Keyboard,1,32.58,0.15,27.69,Cash,2025-09
+S0035,2025-03-03,North,Sports,Dumbbells,5,46.32,0.15,196.86,Cash,2025-03
+S0036,2025-12-03,South,Sports,Resistance Bands,5,21.39,0.05,101.6,UPI,2025-12
+S0037,2025-05-03,North,Home & Kitchen,Lamp,2,34.76,0.05,66.04,Credit Card,2025-05
+S0038,2025-08-23,East,Sports,Resistance Bands,1,20.12,0.0,20.12,Debit Card,2025-08
+S0039,2025-06-28,East,Electronics,Keyboard,3,33.08,0.05,94.28,Credit Card,2025-06
+S0040,2025-12-08,North,Sports,Water Bottle,1,14.43,0.0,14.43,Debit Card,2025-12
+S0041,2025-05-20,East,Home & Kitchen,Storage Box,2,23.81,0.05,45.24,Cash,2025-05
+S0042,2025-05-09,East,Electronics,Headphones,4,41.72,0.05,158.54,Debit Card,2025-05
+S0043,2025-11-23,North,Home & Kitchen,Blender,4,61.97,0.15,210.7,Credit Card,2025-11
+S0044,2025-02-08,South,Clothing,Cap,1,15.2,0.05,14.44,Cash,2025-02
+S0045,2025-03-07,South,Electronics,Mouse,3,21.28,0.0,63.84,Debit Card,2025-03
+S0046,2025-12-08,South,Electronics,Mouse,5,21.52,0.1,96.84,Debit Card,2025-12
+S0047,2025-03-25,East,Clothing,Sneakers,1,77.84,0.0,77.84,Cash,2025-03
+S0048,2025-12-09,North,Clothing,Jacket,2,88.31,0.0,176.62,Cash,2025-12
+S0049,2025-04-24,South,Clothing,Sneakers,3,78.85,0.05,224.72,Debit Card,2025-04
+S0050,2025-01-13,East,Clothing,Sneakers,3,79.37,0.05,226.2,UPI,2025-01
+S0051,2025-11-25,North,Sports,Football,5,26.76,0.05,127.11,UPI,2025-11
+S0052,2025-04-02,East,Sports,Water Bottle,1,15.23,0.0,15.23,UPI,2025-04
+S0053,2025-08-12,South,Sports,Resistance Bands,1,21.28,0.1,19.15,UPI,2025-08
+S0054,2025-01-23,South,Books,Novel,5,14.42,0.15,61.28,UPI,2025-01
+S0055,2025-08-09,North,Electronics,Mouse,5,20.52,0.05,97.47,UPI,2025-08
+S0056,2025-09-17,South,Home & Kitchen,Lamp,3,36.1,0.1,97.47,Debit Card,2025-09
+S0057,2025-08-04,North,Books,Notebook,5,7.75,0.15,32.94,UPI,2025-08
+S0058,2025-05-27,West,Clothing,Sneakers,5,76.86,0.15,326.65,Cash,2025-05
+S0059,2025-08-15,East,Clothing,Cap,4,15.38,0.0,61.52,UPI,2025-08
+S0060,2025-02-17,North,Clothing,Jacket,2,84.92,0.0,169.84,Debit Card,2025-02
+S0061,2025-09-01,South,Sports,Yoga Mat,4,31.85,0.1,114.66,Cash,2025-09
+S0062,2025-09-11,North,Books,Notebook,2,8.5,0.0,17.0,Cash,2025-09
+S0063,2025-04-23,North,Clothing,Cap,4,15.14,0.0,60.56,Cash,2025-04
+S0064,2025-03-10,West,Books,Planner,5,15.53,0.15,66.0,Cash,2025-03
+S0065,2025-10-08,South,Books,Notebook,4,7.69,0.1,27.68,UPI,2025-10
+S0066,2025-09-24,East,Books,Notebook,3,7.46,0.1,20.14,Debit Card,2025-09
+S0067,2025-05-20,South,Home & Kitchen,Cookware Set,5,113.06,0.0,565.3,Cash,2025-05
+S0068,2025-12-22,West,Clothing,Jeans,1,54.19,0.1,48.77,Cash,2025-12
+S0069,2025-02-01,North,Clothing,Sneakers,4,80.35,0.15,273.19,Cash,2025-02
+S0070,2025-09-02,West,Electronics,Mouse,3,21.13,0.1,57.05,Debit Card,2025-09
+S0071,2025-09-07,East,Clothing,Jacket,4,83.22,0.1,299.59,Cash,2025-09
+S0072,2025-03-26,West,Books,Notebook,5,7.39,0.15,31.41,Credit Card,2025-03
+S0073,2025-02-12,West,Books,Notebook,4,7.42,0.0,29.68,UPI,2025-02
+S0074,2025-04-19,West,Books,Cookbook,3,21.22,0.1,57.29,UPI,2025-04
+S0075,2025-02-11,East,Books,Novel,5,15.12,0.0,75.6,Debit Card,2025-02
+S0076,2025-11-29,North,Electronics,Headphones,1,42.84,0.0,42.84,Debit Card,2025-11
+S0077,2025-05-03,West,Clothing,Sneakers,1,80.37,0.15,68.31,UPI,2025-05
+S0078,2025-07-08,South,Clothing,Cap,5,15.67,0.0,78.35,UPI,2025-07
+S0079,2025-02-25,West,Sports,Yoga Mat,3,30.85,0.15,78.67,Cash,2025-02
+S0080,2025-04-12,East,Electronics,USB Cable,2,12.38,0.0,24.76,Credit Card,2025-04
+S0081,2025-10-17,North,Electronics,Mouse,5,20.52,0.1,92.34,UPI,2025-10
+S0082,2025-01-07,West,Books,Biography,1,19.33,0.1,17.4,Debit Card,2025-01
+S0083,2025-08-11,West,Clothing,Cap,3,15.74,0.15,40.14,Cash,2025-08
+S0084,2025-08-12,North,Sports,Water Bottle,3,15.79,0.0,47.37,UPI,2025-08
+S0085,2025-08-19,East,Clothing,Sneakers,5,77.02,0.15,327.33,Credit Card,2025-08
+S0086,2025-09-11,East,Home & Kitchen,Blender,4,58.61,0.0,234.44,UPI,2025-09
+S0087,2025-05-24,South,Sports,Water Bottle,5,15.04,0.0,75.2,Credit Card,2025-05
+S0088,2025-05-04,West,Books,Biography,5,18.55,0.0,92.75,Cash,2025-05
+S0089,2025-01-09,East,Electronics,Mouse,2,20.61,0.1,37.1,UPI,2025-01
+S0090,2025-08-31,East,Sports,Resistance Bands,3,21.59,0.1,58.29,UPI,2025-08
+S0091,2025-12-26,South,Books,Cookbook,3,21.05,0.05,59.99,UPI,2025-12
+S0092,2025-03-03,East,Sports,Dumbbells,2,51.91,0.0,103.82,UPI,2025-03
+S0093,2025-02-21,North,Clothing,Jacket,2,85.38,0.05,162.22,Debit Card,2025-02
+S0094,2025-05-21,South,Electronics,Headphones,5,46.42,0.05,220.5,Cash,2025-05
+S0095,2025-02-22,East,Electronics,USB Cable,3,11.96,0.1,32.29,Debit Card,2025-02
+S0096,2025-01-27,North,Home & Kitchen,Lamp,1,34.44,0.0,34.44,Credit Card,2025-01
+S0097,2025-03-19,North,Clothing,Cap,3,16.19,0.0,48.57,Cash,2025-03
+S0098,2025-11-07,West,Sports,Resistance Bands,2,19.62,0.15,33.35,UPI,2025-11
+S0099,2025-10-29,North,Books,Cookbook,5,20.45,0.15,86.91,Debit Card,2025-10
+S0100,2025-11-17,North,Clothing,Jacket,1,86.25,0.0,86.25,Debit Card,2025-11
+S0101,2025-01-02,South,Books,Biography,5,17.4,0.1,78.3,UPI,2025-01
+S0102,2025-12-28,South,Home & Kitchen,Lamp,1,37.37,0.0,37.37,Cash,2025-12
+S0103,2025-02-28,North,Sports,Dumbbells,2,52.61,0.05,99.96,Credit Card,2025-02
+S0104,2025-03-26,West,Home & Kitchen,Storage Box,5,24.76,0.05,117.61,UPI,2025-03
+S0105,2025-12-25,North,Books,Cookbook,5,21.98,0.15,93.42,Credit Card,2025-12
+S0106,2025-08-10,North,Home & Kitchen,Storage Box,3,23.37,0.0,70.11,UPI,2025-08
+S0107,2025-10-23,East,Electronics,Keyboard,4,35.85,0.15,121.89,Debit Card,2025-10
+S0108,2025-10-27,East,Books,Biography,1,17.56,0.1,15.8,UPI,2025-10
+S0109,2025-12-10,East,Electronics,Keyboard,3,36.08,0.1,97.42,Cash,2025-12
+S0110,2025-10-09,North,Electronics,Monitor,1,172.87,0.05,164.23,Cash,2025-10
+S0111,2025-09-21,East,Electronics,USB Cable,4,11.14,0.1,40.1,Cash,2025-09
+S0112,2025-11-17,East,Books,Novel,2,14.11,0.05,26.81,Cash,2025-11
+S0113,2025-12-24,South,Books,Novel,1,14.67,0.15,12.47,UPI,2025-12
+S0114,2025-10-10,North,Electronics,USB Cable,4,11.47,0.0,45.88,Cash,2025-10
+S0115,2025-03-02,West,Clothing,Sneakers,3,77.46,0.15,197.52,Cash,2025-03
+S0116,2025-08-30,South,Clothing,Sneakers,5,73.6,0.0,368.0,Credit Card,2025-08
+S0117,2025-05-22,East,Books,Cookbook,5,23.13,0.05,109.87,UPI,2025-05
+S0118,2025-10-28,East,Sports,Football,2,25.15,0.1,45.27,UPI,2025-10
+S0119,2025-10-10,South,Sports,Football,4,26.48,0.05,100.62,Cash,2025-10
+S0120,2025-04-30,West,Books,Novel,3,14.46,0.1,39.04,Cash,2025-04
+S0121,2025-12-06,East,Clothing,Sneakers,1,75.03,0.0,75.03,Credit Card,2025-12
+S0122,2025-08-14,West,Electronics,USB Cable,4,12.43,0.0,49.72,Debit Card,2025-08
+S0123,2025-02-08,North,Books,Cookbook,3,22.68,0.15,57.83,UPI,2025-02
+S0124,2025-12-12,North,Sports,Football,3,26.49,0.1,71.52,Credit Card,2025-12
+S0125,2025-05-01,North,Home & Kitchen,Blender,1,64.59,0.1,58.13,Cash,2025-05
+S0126,2025-03-27,East,Home & Kitchen,Coffee Mug,1,10.47,0.05,9.95,UPI,2025-03
+S0127,2025-07-11,South,Books,Notebook,2,7.89,0.15,13.41,Debit Card,2025-07
+S0128,2025-03-31,West,Electronics,USB Cable,4,12.35,0.15,41.99,Debit Card,2025-03
+S0129,2025-04-29,West,Books,Cookbook,4,22.59,0.05,85.84,UPI,2025-04
+S0130,2025-12-13,East,Sports,Dumbbells,1,53.56,0.1,48.2,Cash,2025-12
+S0131,2025-12-20,West,Home & Kitchen,Lamp,3,37.8,0.0,113.4,Credit Card,2025-12
+S0132,2025-05-02,East,Books,Planner,3,15.48,0.15,39.47,Credit Card,2025-05
+S0133,2025-12-04,North,Books,Cookbook,1,23.29,0.15,19.8,Cash,2025-12
+S0134,2025-05-27,East,Clothing,Cap,3,15.33,0.0,45.99,Debit Card,2025-05
+S0135,2025-11-18,East,Electronics,Headphones,3,41.64,0.1,112.43,Debit Card,2025-11
+S0136,2025-02-16,East,Home & Kitchen,Cookware Set,4,114.26,0.0,457.04,UPI,2025-02
+S0137,2025-03-26,West,Home & Kitchen,Lamp,3,36.7,0.05,104.59,Credit Card,2025-03
+S0138,2025-03-14,West,Clothing,Sneakers,5,70.08,0.05,332.88,Credit Card,2025-03
+S0139,2025-05-16,East,Sports,Yoga Mat,4,30.83,0.05,117.15,Cash,2025-05
+S0140,2025-11-23,East,Home & Kitchen,Coffee Mug,2,9.24,0.1,16.63,Debit Card,2025-11
+S0141,2025-11-28,North,Electronics,Monitor,3,168.96,0.1,456.19,Credit Card,2025-11
+S0142,2025-06-05,South,Books,Novel,1,14.87,0.0,14.87,Cash,2025-06
+S0143,2025-08-21,South,Home & Kitchen,Storage Box,4,25.97,0.15,88.3,Cash,2025-08
+S0144,2025-12-02,East,Electronics,Monitor,5,192.64,0.1,866.88,Credit Card,2025-12
+S0145,2025-12-20,East,Home & Kitchen,Blender,4,64.33,0.1,231.59,Credit Card,2025-12
+S0146,2025-12-18,South,Home & Kitchen,Storage Box,3,24.59,0.0,73.77,Credit Card,2025-12
+S0147,2025-08-21,East,Electronics,Keyboard,5,32.48,0.0,162.4,Debit Card,2025-08
+S0148,2025-03-06,South,Sports,Dumbbells,1,47.66,0.15,40.51,Debit Card,2025-03
+S0149,2025-06-18,South,Clothing,Cap,1,15.86,0.05,15.07,Debit Card,2025-06
+S0150,2025-10-04,East,Home & Kitchen,Blender,1,56.47,0.0,56.47,Debit Card,2025-10
+S0151,2025-10-29,West,Home & Kitchen,Coffee Mug,2,9.28,0.05,17.63,Credit Card,2025-10
+S0152,2025-02-02,West,Books,Biography,3,18.27,0.15,46.59,Debit Card,2025-02
+S0153,2025-11-11,North,Electronics,USB Cable,3,12.28,0.1,33.16,Credit Card,2025-11
+S0154,2025-09-03,West,Books,Biography,1,18.61,0.1,16.75,Credit Card,2025-09
+S0155,2025-02-11,East,Home & Kitchen,Storage Box,2,23.5,0.0,47.0,Cash,2025-02
+S0156,2025-11-02,North,Sports,Water Bottle,4,15.25,0.15,51.85,Credit Card,2025-11
+S0157,2025-12-02,West,Sports,Dumbbells,4,53.1,0.1,191.16,UPI,2025-12
+S0158,2025-08-21,East,Books,Biography,1,17.79,0.05,16.9,UPI,2025-08
+S0159,2025-03-20,North,Books,Novel,1,13.09,0.0,13.09,UPI,2025-03
+S0160,2025-03-08,North,Sports,Yoga Mat,5,30.3,0.15,128.78,Cash,2025-03
+S0161,2025-07-01,North,Books,Novel,3,13.58,0.15,34.63,Debit Card,2025-07
+S0162,2025-03-21,East,Books,Notebook,1,8.44,0.05,8.02,Credit Card,2025-03
+S0163,2025-05-23,North,Sports,Dumbbells,4,53.8,0.15,182.92,UPI,2025-05
+S0164,2025-01-15,South,Clothing,Jacket,3,87.85,0.05,250.37,Debit Card,2025-01
+S0165,2025-10-17,South,Books,Novel,2,13.09,0.0,26.18,Cash,2025-10
+S0166,2025-08-03,East,Books,Cookbook,2,21.34,0.05,40.55,Credit Card,2025-08
+S0167,2025-01-27,East,Clothing,Jeans,5,56.53,0.0,282.65,Cash,2025-01
+S0168,2025-12-05,South,Books,Biography,5,17.75,0.1,79.88,Credit Card,2025-12
+S0169,2025-06-26,East,Books,Novel,3,13.97,0.15,35.62,Credit Card,2025-06
+S0170,2025-04-23,South,Books,Planner,1,15.24,0.0,15.24,Debit Card,2025-04
+S0171,2025-05-11,West,Home & Kitchen,Cookware Set,1,119.95,0.0,119.95,Debit Card,2025-05
+S0172,2025-03-08,East,Books,Planner,2,16.15,0.15,27.45,Credit Card,2025-03
+S0173,2025-07-23,East,Electronics,Monitor,1,192.13,0.1,172.92,Cash,2025-07
+S0174,2025-10-21,East,Books,Biography,3,17.73,0.0,53.19,Debit Card,2025-10
+S0175,2025-11-13,South,Books,Cookbook,1,23.21,0.1,20.89,Cash,2025-11
+S0176,2025-10-29,East,Books,Planner,1,16.95,0.1,15.25,Debit Card,2025-10
+S0177,2025-06-20,South,Clothing,T-Shirt,5,18.09,0.0,90.45,UPI,2025-06
+S0178,2025-06-29,South,Clothing,Jeans,1,52.85,0.0,52.85,Debit Card,2025-06
+S0179,2025-12-02,West,Electronics,Keyboard,4,36.42,0.1,131.11,UPI,2025-12
+S0180,2025-11-18,East,Home & Kitchen,Blender,4,59.7,0.0,238.8,UPI,2025-11
+S0181,2025-10-30,West,Electronics,Mouse,5,19.39,0.0,96.95,Credit Card,2025-10
+S0182,2025-01-30,West,Home & Kitchen,Cookware Set,1,122.21,0.0,122.21,Cash,2025-01
+S0183,2025-10-25,East,Sports,Yoga Mat,4,30.73,0.15,104.48,Cash,2025-10
+S0184,2025-09-14,East,Clothing,T-Shirt,4,18.9,0.0,75.6,Credit Card,2025-09
+S0185,2025-09-16,South,Clothing,T-Shirt,2,19.41,0.1,34.94,UPI,2025-09
+S0186,2025-07-10,North,Home & Kitchen,Lamp,4,36.0,0.05,136.8,UPI,2025-07
+S0187,2025-02-03,South,Home & Kitchen,Coffee Mug,5,9.65,0.1,43.43,UPI,2025-02
+S0188,2025-02-11,West,Sports,Dumbbells,3,53.74,0.05,153.16,Debit Card,2025-02
+S0189,2025-11-01,East,Electronics,Mouse,5,20.46,0.1,92.07,Debit Card,2025-11
+S0190,2025-12-10,East,Sports,Yoga Mat,4,29.34,0.15,99.76,UPI,2025-12
+S0191,2025-04-03,South,Clothing,Jacket,4,86.06,0.0,344.24,Debit Card,2025-04
+S0192,2025-02-09,North,Home & Kitchen,Coffee Mug,5,10.54,0.15,44.79,UPI,2025-02
+S0193,2025-11-13,South,Clothing,Cap,4,14.19,0.0,56.76,Cash,2025-11
+S0194,2025-01-23,West,Books,Cookbook,2,22.39,0.1,40.3,Debit Card,2025-01
+S0195,2025-10-01,West,Clothing,Jacket,4,88.1,0.0,352.4,Cash,2025-10
+S0196,2025-05-25,South,Books,Planner,5,17.19,0.1,77.36,Debit Card,2025-05
+S0197,2025-05-09,North,Electronics,Monitor,3,192.51,0.15,490.9,UPI,2025-05
+S0198,2025-02-12,West,Clothing,Jacket,4,84.92,0.15,288.73,Credit Card,2025-02
+S0199,2025-04-24,East,Books,Cookbook,1,20.43,0.1,18.39,Debit Card,2025-04
+S0200,2025-07-17,North,Electronics,Mouse,2,19.42,0.0,38.84,UPI,2025-07
+S0201,2025-03-16,South,Clothing,T-Shirt,3,18.56,0.1,50.11,Cash,2025-03
+S0202,2025-08-18,South,Sports,Yoga Mat,1,28.83,0.0,28.83,Cash,2025-08
+S0203,2025-02-26,West,Home & Kitchen,Blender,3,55.66,0.0,166.98,Cash,2025-02
+S0204,2025-02-02,South,Electronics,Monitor,5,166.07,0.15,705.8,Debit Card,2025-02
+S0205,2025-05-30,West,Books,Novel,5,13.42,0.05,63.74,Debit Card,2025-05
+S0206,2025-12-07,North,Electronics,USB Cable,3,12.87,0.0,38.61,Cash,2025-12
+S0207,2025-08-29,East,Electronics,Monitor,3,187.12,0.05,533.29,Credit Card,2025-08
+S0208,2025-06-26,East,Clothing,T-Shirt,5,16.94,0.05,80.47,UPI,2025-06
+S0209,2025-11-26,North,Clothing,Sneakers,4,78.74,0.0,314.96,Cash,2025-11
+S0210,2025-01-19,East,Home & Kitchen,Blender,1,63.7,0.0,63.7,UPI,2025-01
+S0211,2025-09-21,South,Books,Planner,4,14.81,0.05,56.28,UPI,2025-09
+S0212,2025-07-02,West,Electronics,Mouse,3,20.96,0.0,62.88,Cash,2025-07
+S0213,2025-08-14,East,Books,Cookbook,2,22.68,0.1,40.82,UPI,2025-08
+S0214,2025-02-12,South,Books,Novel,4,15.11,0.15,51.37,UPI,2025-02
+S0215,2025-06-14,West,Electronics,Headphones,3,43.61,0.05,124.29,Debit Card,2025-06
+S0216,2025-12-20,East,Books,Cookbook,4,22.8,0.0,91.2,Cash,2025-12
+S0217,2025-05-21,South,Electronics,Headphones,4,45.09,0.05,171.34,Credit Card,2025-05
+S0218,2025-03-15,East,Sports,Football,1,23.27,0.0,23.27,UPI,2025-03
+S0219,2025-07-16,East,Sports,Yoga Mat,5,30.86,0.0,154.3,UPI,2025-07
+S0220,2025-08-16,East,Electronics,USB Cable,2,11.74,0.15,19.96,UPI,2025-08
+S0221,2025-05-08,North,Electronics,Headphones,2,45.13,0.1,81.23,UPI,2025-05
+S0222,2025-05-14,West,Books,Notebook,5,8.25,0.05,39.19,Debit Card,2025-05
+S0223,2025-03-04,West,Clothing,T-Shirt,4,19.15,0.0,76.6,Credit Card,2025-03
+S0224,2025-12-16,East,Home & Kitchen,Cookware Set,1,120.81,0.15,102.69,Debit Card,2025-12
+S0225,2025-12-31,South,Clothing,Jacket,5,84.55,0.0,422.75,Debit Card,2025-12
+S0226,2025-05-02,West,Books,Novel,3,14.16,0.15,36.11,Debit Card,2025-05
+S0227,2025-11-10,West,Electronics,Headphones,3,48.6,0.1,131.22,Cash,2025-11
+S0228,2025-07-29,West,Sports,Yoga Mat,2,30.68,0.05,58.29,Cash,2025-07
+S0229,2025-12-15,South,Sports,Water Bottle,2,15.34,0.15,26.08,Debit Card,2025-12
+S0230,2025-08-10,South,Sports,Yoga Mat,1,28.33,0.15,24.08,Debit Card,2025-08
+S0231,2025-06-15,East,Clothing,Jacket,5,94.98,0.05,451.16,Debit Card,2025-06
+S0232,2025-11-22,North,Sports,Water Bottle,2,15.27,0.05,29.01,Debit Card,2025-11
+S0233,2025-10-31,East,Sports,Dumbbells,2,51.77,0.15,88.01,Credit Card,2025-10
+S0234,2025-01-15,West,Electronics,Headphones,5,46.09,0.05,218.93,Credit Card,2025-01
+S0235,2025-09-12,West,Sports,Water Bottle,3,14.39,0.1,38.85,UPI,2025-09
+S0236,2025-08-21,West,Electronics,Headphones,2,44.39,0.1,79.9,Debit Card,2025-08
+S0237,2025-06-24,East,Sports,Dumbbells,3,51.87,0.05,147.83,Cash,2025-06
+S0238,2025-03-08,West,Home & Kitchen,Storage Box,5,24.28,0.0,121.4,Credit Card,2025-03
+S0239,2025-05-17,West,Books,Notebook,2,7.42,0.0,14.84,Cash,2025-05
+S0240,2025-05-08,South,Clothing,Jacket,5,85.53,0.05,406.27,Cash,2025-05
+S0241,2025-09-21,West,Books,Biography,3,16.63,0.1,44.9,Cash,2025-09
+S0242,2025-05-04,West,Clothing,Cap,3,13.92,0.0,41.76,Cash,2025-05
+S0243,2025-05-27,East,Sports,Yoga Mat,1,28.24,0.1,25.42,UPI,2025-05
+S0244,2025-07-26,South,Home & Kitchen,Coffee Mug,4,10.11,0.0,40.44,UPI,2025-07
+S0245,2025-10-11,East,Home & Kitchen,Coffee Mug,4,9.92,0.15,33.73,Credit Card,2025-10
+S0246,2025-03-07,East,Electronics,Monitor,3,181.67,0.05,517.76,Debit Card,2025-03
+S0247,2025-04-12,North,Sports,Resistance Bands,4,18.53,0.15,63.0,Debit Card,2025-04
+S0248,2025-06-20,South,Books,Planner,4,16.27,0.0,65.08,UPI,2025-06
+S0249,2025-11-10,East,Home & Kitchen,Blender,4,62.3,0.15,211.82,UPI,2025-11
+S0250,2025-09-17,North,Sports,Resistance Bands,4,19.36,0.15,65.82,UPI,2025-09
+S0251,2025-06-19,North,Electronics,Monitor,5,188.55,0.05,895.61,Cash,2025-06
+S0252,2025-05-16,South,Sports,Resistance Bands,2,20.27,0.0,40.54,Cash,2025-05
+S0253,2025-03-17,West,Clothing,T-Shirt,5,17.11,0.0,85.55,UPI,2025-03
+S0254,2025-08-03,West,Clothing,Sneakers,2,75.02,0.1,135.04,Credit Card,2025-08
+S0255,2025-12-28,West,Clothing,Cap,2,14.58,0.15,24.79,Cash,2025-12
+S0256,2025-06-10,East,Clothing,Sneakers,5,75.56,0.05,358.91,Cash,2025-06
+S0257,2025-04-09,East,Clothing,Jacket,5,86.04,0.05,408.69,UPI,2025-04
+S0258,2025-12-27,East,Clothing,Sneakers,3,73.19,0.1,197.61,UPI,2025-12
+S0259,2025-03-04,South,Sports,Resistance Bands,4,21.02,0.1,75.67,UPI,2025-03
+S0260,2025-01-22,West,Home & Kitchen,Coffee Mug,3,10.25,0.1,27.68,Debit Card,2025-01
+S0261,2025-04-14,South,Sports,Water Bottle,5,14.13,0.05,67.12,Debit Card,2025-04
+S0262,2025-01-26,East,Sports,Dumbbells,2,46.8,0.0,93.6,Cash,2025-01
+S0263,2025-02-21,West,Clothing,T-Shirt,5,17.73,0.0,88.65,Cash,2025-02
+S0264,2025-11-30,North,Clothing,Jacket,3,92.1,0.05,262.48,Debit Card,2025-11
+S0265,2025-10-01,North,Electronics,Keyboard,4,37.43,0.0,149.72,Cash,2025-10
+S0266,2025-09-11,North,Clothing,Jacket,1,87.1,0.0,87.1,UPI,2025-09
+S0267,2025-05-26,South,Books,Planner,5,17.0,0.1,76.5,Cash,2025-05
+S0268,2025-05-20,East,Clothing,T-Shirt,3,18.67,0.0,56.01,Debit Card,2025-05
+S0269,2025-01-08,West,Home & Kitchen,Cookware Set,5,113.77,0.0,568.85,Cash,2025-01
+S0270,2025-09-21,South,Home & Kitchen,Coffee Mug,4,9.5,0.0,38.0,Cash,2025-09
+S0271,2025-06-15,East,Clothing,T-Shirt,3,17.24,0.1,46.55,UPI,2025-06
+S0272,2025-06-04,South,Sports,Resistance Bands,1,20.49,0.05,19.47,Credit Card,2025-06
+S0273,2025-12-08,East,Electronics,Monitor,3,177.28,0.0,531.84,Credit Card,2025-12
+S0274,2025-11-24,South,Home & Kitchen,Cookware Set,5,114.61,0.0,573.05,Cash,2025-11
+S0275,2025-03-20,West,Books,Planner,3,16.52,0.1,44.6,Debit Card,2025-03
+S0276,2025-05-07,East,Sports,Yoga Mat,5,30.14,0.1,135.63,Credit Card,2025-05
+S0277,2025-10-16,South,Electronics,Headphones,5,42.86,0.15,182.16,Debit Card,2025-10
+S0278,2025-06-17,West,Sports,Football,1,25.87,0.0,25.87,Credit Card,2025-06
+S0279,2025-09-19,West,Books,Novel,4,14.03,0.0,56.12,Credit Card,2025-09
+S0280,2025-10-14,North,Books,Cookbook,1,21.14,0.1,19.03,Debit Card,2025-10
+S0281,2025-10-24,North,Electronics,Headphones,4,46.44,0.05,176.47,Credit Card,2025-10
+S0282,2025-08-30,West,Electronics,Mouse,4,20.86,0.0,83.44,UPI,2025-08
+S0283,2025-07-15,South,Books,Biography,4,18.53,0.0,74.12,UPI,2025-07
+S0284,2025-03-02,South,Clothing,Cap,4,14.11,0.15,47.97,Credit Card,2025-03
+S0285,2025-01-12,South,Home & Kitchen,Lamp,5,35.18,0.1,158.31,Debit Card,2025-01
+S0286,2025-08-24,North,Home & Kitchen,Blender,3,64.2,0.0,192.6,Credit Card,2025-08
+S0287,2025-12-05,North,Books,Planner,1,15.25,0.0,15.25,Credit Card,2025-12
+S0288,2025-08-17,South,Sports,Yoga Mat,2,29.53,0.0,59.06,Debit Card,2025-08
+S0289,2025-01-29,East,Clothing,Cap,3,15.76,0.0,47.28,UPI,2025-01
+S0290,2025-05-02,East,Home & Kitchen,Blender,5,59.17,0.0,295.85,Credit Card,2025-05
+S0291,2025-10-13,East,Sports,Dumbbells,4,49.96,0.15,169.86,Cash,2025-10
+S0292,2025-09-26,South,Home & Kitchen,Lamp,4,33.88,0.0,135.52,Cash,2025-09
+S0293,2025-05-04,West,Clothing,Jacket,2,95.97,0.1,172.75,Cash,2025-05
+S0294,2025-10-13,East,Sports,Dumbbells,4,48.04,0.0,192.16,Credit Card,2025-10
+S0295,2025-08-19,West,Home & Kitchen,Coffee Mug,5,9.28,0.0,46.4,Credit Card,2025-08
+S0296,2025-02-07,East,Clothing,Cap,5,14.95,0.0,74.75,UPI,2025-02
+S0297,2025-01-08,South,Clothing,Jeans,1,58.65,0.1,52.78,Cash,2025-01
+S0298,2025-05-03,East,Sports,Water Bottle,3,14.92,0.1,40.28,UPI,2025-05
+S0299,2025-05-14,West,Home & Kitchen,Storage Box,4,23.39,0.1,84.2,UPI,2025-05
+S0300,2025-04-15,South,Home & Kitchen,Cookware Set,4,121.2,0.0,484.8,Debit Card,2025-04
+S0301,2025-01-09,East,Home & Kitchen,Storage Box,5,25.88,0.15,109.99,Debit Card,2025-01
+S0302,2025-04-11,West,Home & Kitchen,Blender,4,63.2,0.15,214.88,UPI,2025-04
+S0303,2025-05-12,East,Books,Biography,4,18.67,0.0,74.68,Debit Card,2025-05
+S0304,2025-03-13,North,Sports,Football,2,26.96,0.15,45.83,Credit Card,2025-03
+S0305,2025-02-08,South,Electronics,Headphones,4,47.47,0.0,189.88,Credit Card,2025-02
+S0306,2025-12-29,North,Clothing,T-Shirt,2,17.87,0.15,30.38,Cash,2025-12
+S0307,2025-12-04,North,Books,Novel,1,14.12,0.15,12.0,Credit Card,2025-12
+S0308,2025-09-29,West,Home & Kitchen,Storage Box,3,25.01,0.0,75.03,Debit Card,2025-09
+S0309,2025-02-24,East,Electronics,USB Cable,2,11.41,0.0,22.82,UPI,2025-02
+S0310,2025-05-17,South,Books,Novel,3,13.91,0.1,37.56,Debit Card,2025-05
+S0311,2025-06-03,West,Electronics,Headphones,1,44.13,0.1,39.72,Credit Card,2025-06
+S0312,2025-11-23,East,Electronics,Keyboard,1,36.93,0.1,33.24,Credit Card,2025-11
+S0313,2025-09-28,North,Electronics,Keyboard,2,34.86,0.15,59.26,Credit Card,2025-09
+S0314,2025-12-17,East,Home & Kitchen,Storage Box,5,23.72,0.0,118.6,Credit Card,2025-12
+S0315,2025-04-17,South,Sports,Dumbbells,4,48.39,0.0,193.56,Cash,2025-04
+S0316,2025-12-13,North,Sports,Water Bottle,4,15.7,0.0,62.8,UPI,2025-12
+S0317,2025-01-28,West,Electronics,Monitor,2,175.41,0.0,350.82,UPI,2025-01
+S0318,2025-01-16,West,Home & Kitchen,Lamp,4,34.19,0.0,136.76,Cash,2025-01
+S0319,2025-04-06,South,Sports,Football,1,24.18,0.15,20.55,Credit Card,2025-04
+S0320,2025-02-12,East,Home & Kitchen,Blender,4,62.3,0.0,249.2,UPI,2025-02
+S0321,2025-02-24,East,Electronics,Headphones,3,43.99,0.1,118.77,Credit Card,2025-02
+S0322,2025-03-09,West,Electronics,Keyboard,4,35.32,0.1,127.15,Credit Card,2025-03
+S0323,2025-01-14,East,Electronics,Mouse,5,20.31,0.0,101.55,Cash,2025-01
+S0324,2025-01-07,South,Home & Kitchen,Lamp,4,36.26,0.0,145.04,Debit Card,2025-01
+S0325,2025-12-17,West,Books,Notebook,2,7.75,0.05,14.72,Debit Card,2025-12
+S0326,2025-02-02,North,Clothing,Sneakers,3,72.6,0.1,196.02,UPI,2025-02
+S0327,2025-05-09,North,Clothing,Sneakers,5,71.35,0.15,303.24,Debit Card,2025-05
+S0328,2025-06-05,East,Electronics,Monitor,3,176.54,0.15,450.18,Cash,2025-06
+S0329,2025-06-21,South,Books,Planner,2,15.54,0.05,29.53,Cash,2025-06
+S0330,2025-06-10,West,Clothing,Sneakers,3,77.82,0.05,221.79,Debit Card,2025-06
+S0331,2025-06-16,South,Books,Cookbook,4,20.64,0.05,78.43,Debit Card,2025-06
+S0332,2025-12-16,East,Sports,Yoga Mat,4,29.7,0.0,118.8,Credit Card,2025-12
+S0333,2025-07-29,South,Books,Notebook,3,7.68,0.0,23.04,Cash,2025-07
+S0334,2025-07-13,West,Electronics,Monitor,5,182.37,0.1,820.67,Credit Card,2025-07
+S0335,2025-07-04,East,Sports,Resistance Bands,1,20.86,0.0,20.86,Debit Card,2025-07
+S0336,2025-11-28,East,Sports,Yoga Mat,5,32.24,0.1,145.08,Cash,2025-11
+S0337,2025-02-24,South,Electronics,Headphones,3,45.08,0.0,135.24,Cash,2025-02
+S0338,2025-07-11,North,Books,Biography,5,16.99,0.15,72.21,Cash,2025-07
+S0339,2025-02-23,South,Home & Kitchen,Lamp,1,36.86,0.0,36.86,UPI,2025-02
+S0340,2025-06-09,West,Home & Kitchen,Lamp,2,34.9,0.15,59.33,Credit Card,2025-06
+S0341,2025-08-13,North,Books,Cookbook,1,20.4,0.05,19.38,Credit Card,2025-08
+S0342,2025-06-25,South,Electronics,Keyboard,2,33.18,0.15,56.41,UPI,2025-06
+S0343,2025-10-14,South,Books,Biography,2,18.37,0.1,33.07,Cash,2025-10
+S0344,2025-07-22,West,Electronics,USB Cable,2,12.18,0.1,21.92,Credit Card,2025-07
+S0345,2025-12-27,South,Clothing,Jeans,3,55.68,0.0,167.04,UPI,2025-12
+S0346,2025-06-16,West,Clothing,Sneakers,1,77.05,0.05,73.2,UPI,2025-06
+S0347,2025-11-02,East,Books,Planner,4,15.01,0.15,51.03,Cash,2025-11
+S0348,2025-11-13,South,Clothing,Jacket,5,84.02,0.15,357.08,UPI,2025-11
+S0349,2025-03-02,South,Clothing,Jacket,1,88.18,0.0,88.18,Cash,2025-03
+S0350,2025-08-03,West,Sports,Dumbbells,5,49.38,0.1,222.21,Debit Card,2025-08
+S0351,2025-10-12,West,Clothing,Sneakers,3,71.25,0.0,213.75,Credit Card,2025-10
+S0352,2025-07-03,West,Electronics,Monitor,2,189.08,0.0,378.16,Cash,2025-07
+S0353,2025-12-17,North,Books,Biography,4,17.04,0.1,61.34,Debit Card,2025-12
+S0354,2025-05-30,West,Electronics,Mouse,2,19.32,0.15,32.84,Cash,2025-05
+S0355,2025-10-09,East,Sports,Yoga Mat,5,28.89,0.0,144.45,Credit Card,2025-10
+S0356,2025-08-14,South,Sports,Dumbbells,4,51.89,0.0,207.56,UPI,2025-08
+S0357,2025-01-17,North,Books,Cookbook,3,21.79,0.0,65.37,Debit Card,2025-01
+S0358,2025-04-18,South,Sports,Water Bottle,5,14.2,0.1,63.9,Debit Card,2025-04
+S0359,2025-04-16,South,Electronics,USB Cable,3,11.58,0.15,29.53,UPI,2025-04
+S0360,2025-12-27,North,Home & Kitchen,Cookware Set,5,128.69,0.05,611.28,Debit Card,2025-12
+S0361,2025-07-30,East,Electronics,Mouse,2,19.2,0.0,38.4,Debit Card,2025-07
+S0362,2025-12-13,West,Books,Biography,2,18.38,0.15,31.25,Cash,2025-12
+S0363,2025-08-20,East,Electronics,Headphones,4,46.8,0.15,159.12,Cash,2025-08
+S0364,2025-09-07,West,Home & Kitchen,Storage Box,1,25.92,0.0,25.92,UPI,2025-09
+S0365,2025-02-02,West,Sports,Football,2,26.3,0.1,47.34,UPI,2025-02
+S0366,2025-06-15,West,Home & Kitchen,Cookware Set,5,112.91,0.15,479.87,UPI,2025-06
+S0367,2025-12-16,South,Electronics,Headphones,1,41.52,0.1,37.37,Cash,2025-12
+S0368,2025-08-22,East,Electronics,Monitor,2,191.01,0.0,382.02,Debit Card,2025-08
+S0369,2025-05-21,South,Electronics,Mouse,3,19.59,0.0,58.77,Credit Card,2025-05
+S0370,2025-07-22,North,Home & Kitchen,Blender,4,61.96,0.0,247.84,Debit Card,2025-07
+S0371,2025-09-02,West,Electronics,Keyboard,5,35.11,0.0,175.55,Credit Card,2025-09
+S0372,2025-01-05,South,Home & Kitchen,Coffee Mug,4,9.96,0.0,39.84,Cash,2025-01
+S0373,2025-02-15,South,Electronics,Headphones,3,47.74,0.05,136.06,Cash,2025-02
+S0374,2025-03-10,South,Clothing,T-Shirt,5,16.58,0.15,70.46,Cash,2025-03
+S0375,2025-06-29,South,Clothing,Jeans,4,56.64,0.15,192.58,Credit Card,2025-06
+S0376,2025-02-21,West,Clothing,T-Shirt,5,17.57,0.1,79.06,UPI,2025-02
+S0377,2025-03-13,East,Clothing,Jacket,1,90.77,0.0,90.77,Credit Card,2025-03
+S0378,2025-12-04,West,Home & Kitchen,Blender,5,60.09,0.15,255.38,UPI,2025-12
+S0379,2025-11-27,West,Electronics,Keyboard,4,32.83,0.1,118.19,Credit Card,2025-11
+S0380,2025-09-28,West,Electronics,Mouse,3,19.64,0.0,58.92,UPI,2025-09
+S0381,2025-10-07,North,Clothing,Sneakers,1,76.05,0.0,76.05,UPI,2025-10
+S0382,2025-04-21,West,Electronics,Headphones,4,43.46,0.15,147.76,Cash,2025-04
+S0383,2025-12-26,East,Books,Novel,5,14.26,0.15,60.6,Credit Card,2025-12
+S0384,2025-06-08,West,Electronics,USB Cable,2,12.07,0.0,24.14,Credit Card,2025-06
+S0385,2025-06-08,West,Books,Notebook,1,7.47,0.0,7.47,Credit Card,2025-06
+S0386,2025-08-21,South,Sports,Resistance Bands,1,20.53,0.05,19.5,Credit Card,2025-08
+S0387,2025-01-07,East,Clothing,T-Shirt,2,19.3,0.1,34.74,Debit Card,2025-01
+S0388,2025-07-10,West,Clothing,Jacket,1,87.62,0.0,87.62,UPI,2025-07
+S0389,2025-09-26,East,Electronics,Mouse,5,19.99,0.0,99.95,Credit Card,2025-09
+S0390,2025-09-13,North,Sports,Dumbbells,3,48.04,0.0,144.12,Credit Card,2025-09
+S0391,2025-04-27,West,Sports,Yoga Mat,1,28.77,0.0,28.77,UPI,2025-04
+S0392,2025-07-16,West,Clothing,Jeans,1,57.67,0.15,49.02,Debit Card,2025-07
+S0393,2025-06-14,East,Clothing,Sneakers,3,78.91,0.05,224.89,Credit Card,2025-06
+S0394,2025-09-15,West,Electronics,Keyboard,2,37.7,0.15,64.09,Credit Card,2025-09
+S0395,2025-08-27,North,Home & Kitchen,Cookware Set,3,121.02,0.0,363.06,UPI,2025-08
+S0396,2025-04-13,East,Home & Kitchen,Storage Box,3,23.97,0.15,61.12,Cash,2025-04
+S0397,2025-04-11,North,Sports,Dumbbells,2,53.46,0.0,106.92,Debit Card,2025-04
+S0398,2025-10-05,West,Home & Kitchen,Coffee Mug,3,10.41,0.0,31.23,UPI,2025-10
+S0399,2025-02-23,North,Clothing,Cap,2,14.98,0.1,26.96,Debit Card,2025-02
+S0400,2025-12-31,West,Home & Kitchen,Coffee Mug,1,10.64,0.0,10.64,UPI,2025-12
+S0401,2025-08-23,West,Electronics,USB Cable,1,11.3,0.15,9.61,Credit Card,2025-08
+S0402,2025-10-31,East,Sports,Yoga Mat,4,28.74,0.0,114.96,UPI,2025-10
+S0403,2025-07-21,South,Home & Kitchen,Cookware Set,4,114.89,0.05,436.58,Debit Card,2025-07
+S0404,2025-10-27,East,Electronics,Keyboard,1,34.72,0.0,34.72,Cash,2025-10
+S0405,2025-03-03,East,Sports,Water Bottle,2,14.54,0.1,26.17,Credit Card,2025-03
+S0406,2025-02-16,East,Clothing,Jacket,5,85.9,0.0,429.5,Debit Card,2025-02
+S0407,2025-02-16,East,Clothing,Jacket,4,83.5,0.15,283.9,UPI,2025-02
+S0408,2025-03-31,South,Electronics,Monitor,4,187.14,0.15,636.28,Credit Card,2025-03
+S0409,2025-08-25,South,Electronics,Keyboard,1,32.55,0.0,32.55,Debit Card,2025-08
+S0410,2025-04-12,North,Books,Cookbook,1,22.3,0.15,18.96,Credit Card,2025-04
+S0411,2025-02-03,East,Clothing,Sneakers,2,79.86,0.0,159.72,Credit Card,2025-02
+S0412,2025-01-22,West,Books,Novel,2,13.85,0.15,23.54,Cash,2025-01
+S0413,2025-01-16,South,Books,Biography,2,17.18,0.05,32.64,UPI,2025-01
+S0414,2025-05-24,South,Books,Notebook,1,8.15,0.15,6.93,UPI,2025-05
+S0415,2025-09-13,West,Books,Planner,4,14.94,0.0,59.76,Debit Card,2025-09
+S0416,2025-08-03,West,Clothing,Cap,2,15.71,0.15,26.71,UPI,2025-08
+S0417,2025-09-03,West,Sports,Football,3,25.01,0.15,63.78,UPI,2025-09
+S0418,2025-04-03,East,Electronics,Mouse,5,18.49,0.0,92.45,Credit Card,2025-04
+S0419,2025-08-30,North,Sports,Water Bottle,5,16.14,0.0,80.7,Debit Card,2025-08
+S0420,2025-12-03,South,Clothing,Jacket,5,93.8,0.0,469.0,Cash,2025-12
+S0421,2025-07-01,East,Clothing,Jeans,2,53.4,0.15,90.78,Credit Card,2025-07
+S0422,2025-12-27,South,Home & Kitchen,Storage Box,5,25.25,0.0,126.25,Cash,2025-12
+S0423,2025-10-05,South,Home & Kitchen,Blender,4,56.07,0.0,224.28,Debit Card,2025-10
+S0424,2025-01-11,South,Sports,Football,1,26.67,0.05,25.34,Debit Card,2025-01
+S0425,2025-06-24,South,Clothing,Jacket,1,84.93,0.0,84.93,Credit Card,2025-06
+S0426,2025-09-27,East,Home & Kitchen,Coffee Mug,3,10.14,0.1,27.38,UPI,2025-09
+S0427,2025-06-15,South,Clothing,Jeans,4,56.31,0.1,202.72,UPI,2025-06
+S0428,2025-04-25,East,Sports,Dumbbells,4,51.87,0.05,197.11,Debit Card,2025-04
+S0429,2025-04-01,East,Electronics,USB Cable,4,11.1,0.15,37.74,Debit Card,2025-04
+S0430,2025-11-24,North,Sports,Yoga Mat,4,29.19,0.0,116.76,Debit Card,2025-11
+S0431,2025-06-27,East,Home & Kitchen,Blender,1,59.49,0.05,56.52,Debit Card,2025-06
+S0432,2025-05-08,North,Electronics,Mouse,3,20.71,0.0,62.13,Cash,2025-05
+S0433,2025-08-13,East,Books,Notebook,4,8.49,0.1,30.56,Cash,2025-08
+S0434,2025-02-21,North,Books,Planner,2,15.88,0.0,31.76,UPI,2025-02
+S0435,2025-01-11,West,Home & Kitchen,Cookware Set,1,116.96,0.0,116.96,Debit Card,2025-01
+S0436,2025-02-08,West,Sports,Yoga Mat,3,32.33,0.15,82.44,Credit Card,2025-02
+S0437,2025-08-09,East,Clothing,Cap,4,13.93,0.0,55.72,Debit Card,2025-08
+S0438,2025-04-08,East,Books,Planner,5,16.41,0.05,77.95,Debit Card,2025-04
+S0439,2025-02-19,South,Electronics,Monitor,5,189.79,0.15,806.61,Credit Card,2025-02
+S0440,2025-07-04,West,Electronics,Monitor,1,189.33,0.05,179.86,Debit Card,2025-07
+S0441,2025-02-19,West,Electronics,Keyboard,2,37.67,0.05,71.57,Credit Card,2025-02
+S0442,2025-06-07,West,Books,Biography,4,16.82,0.05,63.92,Debit Card,2025-06
+S0443,2025-07-09,West,Books,Cookbook,2,20.4,0.1,36.72,Cash,2025-07
+S0444,2025-05-15,North,Clothing,Jacket,5,84.98,0.0,424.9,Credit Card,2025-05
+S0445,2025-12-09,North,Home & Kitchen,Storage Box,4,23.91,0.15,81.29,Cash,2025-12
+S0446,2025-09-25,West,Books,Planner,4,16.98,0.15,57.73,UPI,2025-09
+S0447,2025-02-10,South,Books,Novel,5,14.9,0.15,63.32,Credit Card,2025-02
+S0448,2025-08-18,West,Clothing,Jeans,2,51.71,0.0,103.42,Credit Card,2025-08
+S0449,2025-12-16,North,Books,Notebook,2,7.69,0.15,13.07,Credit Card,2025-12
+S0450,2025-07-18,West,Sports,Football,5,26.43,0.05,125.54,Credit Card,2025-07
+S0451,2025-12-25,South,Sports,Resistance Bands,5,18.76,0.1,84.42,Debit Card,2025-12
+S0452,2025-10-18,North,Sports,Resistance Bands,1,20.2,0.0,20.2,UPI,2025-10
+S0453,2025-10-02,West,Home & Kitchen,Lamp,3,35.87,0.1,96.85,Credit Card,2025-10
+S0454,2025-03-30,West,Home & Kitchen,Lamp,2,35.61,0.15,60.54,Credit Card,2025-03
+S0455,2025-07-22,East,Home & Kitchen,Blender,1,64.04,0.1,57.64,Credit Card,2025-07
+S0456,2025-06-22,North,Home & Kitchen,Cookware Set,3,126.88,0.1,342.58,Debit Card,2025-06
+S0457,2025-03-10,North,Home & Kitchen,Lamp,3,36.28,0.05,103.4,Debit Card,2025-03
+S0458,2025-08-15,North,Clothing,Sneakers,4,79.41,0.15,269.99,Debit Card,2025-08
+S0459,2025-02-03,North,Home & Kitchen,Storage Box,4,26.12,0.0,104.48,Debit Card,2025-02
+S0460,2025-04-09,East,Clothing,T-Shirt,2,17.87,0.0,35.74,Debit Card,2025-04
+S0461,2025-05-21,North,Home & Kitchen,Lamp,5,35.76,0.1,160.92,Credit Card,2025-05
+S0462,2025-05-04,West,Home & Kitchen,Lamp,5,33.19,0.1,149.35,UPI,2025-05
+S0463,2025-06-26,North,Clothing,Jacket,1,83.2,0.05,79.04,Debit Card,2025-06
+S0464,2025-10-20,West,Clothing,Jeans,2,52.97,0.0,105.94,Credit Card,2025-10
+S0465,2025-12-16,North,Electronics,Monitor,2,182.91,0.0,365.82,Debit Card,2025-12
+S0466,2025-05-10,East,Sports,Water Bottle,3,15.95,0.1,43.06,Cash,2025-05
+S0467,2025-05-10,West,Clothing,Sneakers,3,78.89,0.15,201.17,Credit Card,2025-05
+S0468,2025-01-04,East,Sports,Water Bottle,5,15.26,0.15,64.85,Credit Card,2025-01
+S0469,2025-09-04,East,Electronics,Mouse,3,21.16,0.05,60.31,UPI,2025-09
+S0470,2025-04-07,West,Clothing,Cap,2,15.73,0.0,31.46,UPI,2025-04
+S0471,2025-12-15,West,Clothing,T-Shirt,4,17.31,0.05,65.78,Cash,2025-12
+S0472,2025-07-18,South,Electronics,USB Cable,5,11.7,0.0,58.5,Cash,2025-07
+S0473,2025-12-10,South,Home & Kitchen,Storage Box,3,26.36,0.0,79.08,UPI,2025-12
+S0474,2025-02-19,South,Books,Notebook,3,8.34,0.15,21.27,UPI,2025-02
+S0475,2025-12-02,East,Electronics,Keyboard,3,36.37,0.0,109.11,Cash,2025-12
+S0476,2025-06-19,North,Home & Kitchen,Cookware Set,5,119.3,0.05,566.67,Cash,2025-06
+S0477,2025-01-28,South,Sports,Resistance Bands,5,19.91,0.0,99.55,Credit Card,2025-01
+S0478,2025-12-15,South,Books,Planner,3,14.86,0.1,40.12,Debit Card,2025-12
+S0479,2025-04-13,South,Home & Kitchen,Lamp,5,33.0,0.1,148.5,Credit Card,2025-04
+S0480,2025-09-07,East,Home & Kitchen,Blender,3,55.25,0.0,165.75,Debit Card,2025-09
+S0481,2025-03-28,West,Sports,Dumbbells,4,47.04,0.0,188.16,Cash,2025-03
+S0482,2025-07-26,South,Books,Biography,4,16.67,0.0,66.68,UPI,2025-07
+S0483,2025-01-08,South,Home & Kitchen,Storage Box,2,25.71,0.0,51.42,Debit Card,2025-01
+S0484,2025-12-22,East,Home & Kitchen,Cookware Set,2,117.76,0.0,235.52,Debit Card,2025-12
+S0485,2025-02-03,East,Electronics,Mouse,3,20.73,0.1,55.97,Cash,2025-02
+S0486,2025-12-18,South,Clothing,Jacket,4,93.6,0.05,355.68,Cash,2025-12
+S0487,2025-01-10,South,Clothing,Jeans,2,57.06,0.0,114.12,Credit Card,2025-01
+S0488,2025-07-07,North,Electronics,Monitor,3,183.55,0.15,468.05,Credit Card,2025-07
+S0489,2025-12-01,North,Electronics,Headphones,1,44.6,0.1,40.14,UPI,2025-12
+S0490,2025-08-31,North,Clothing,Jeans,1,54.3,0.05,51.58,UPI,2025-08
+S0491,2025-11-15,North,Sports,Dumbbells,4,50.09,0.0,200.36,UPI,2025-11
+S0492,2025-02-28,East,Electronics,Monitor,2,171.35,0.15,291.29,Debit Card,2025-02
+S0493,2025-07-03,South,Books,Cookbook,2,22.17,0.0,44.34,Cash,2025-07
+S0494,2025-06-19,West,Clothing,T-Shirt,1,19.17,0.0,19.17,Debit Card,2025-06
+S0495,2025-02-16,West,Sports,Yoga Mat,1,30.69,0.05,29.16,UPI,2025-02
+S0496,2025-05-16,East,Books,Novel,1,14.84,0.0,14.84,UPI,2025-05
+S0497,2025-12-13,North,Home & Kitchen,Lamp,1,36.97,0.0,36.97,Credit Card,2025-12
+S0498,2025-03-12,East,Clothing,Jacket,3,96.55,0.1,260.69,Credit Card,2025-03
+S0499,2025-07-10,West,Home & Kitchen,Blender,1,59.04,0.1,53.14,UPI,2025-07
+S0500,2025-07-17,North,Books,Biography,2,16.94,0.0,33.88,Debit Card,2025-07
